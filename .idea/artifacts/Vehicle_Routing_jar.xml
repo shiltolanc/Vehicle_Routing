@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Vehicle Routing:jar">
+    <output-path>$PROJECT_DIR$/../Assignment 4</output-path>
+    <root id="archive" name="Vehicle Routing.jar">
+      <element id="module-output" name="Vehicle Routing" />
+    </root>
+  </artifact>
+</component>
